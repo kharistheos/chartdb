@@ -1,31 +1,33 @@
 {
-    "chartData": {
-        "labels": [
-            "sunday",
-            "monday",
-            "tuesday",
-            "wednesday",
-            "thursday",
-            "friday",
-            "saturday"
-        ],
-        "videosMades": [
-            20000,
-            14000,
-            12000,
-            15000,
-            18000,
-            19000,
-            22000
-        ],
-        "subscription": [
-            19000,
-            10000,
-            14000,
-            14000,
-            15000,
-            22000,
-            24000
-        ]
-    }
+  "thisWeek": [
+    "sunday",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday"
+ 
+  ],
+  
+  "Videos Mades": [
+    20,
+   10,
+   15,
+  26,
+  40,
+  30,
+   35
+ 
+  ],
+  "Subscriptions": [
+ 26,
+30,
+35,
+10,
+ 50
+   40,
+ 45,
+  15
+  ]
 }
