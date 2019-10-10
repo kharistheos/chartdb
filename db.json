@@ -10,7 +10,7 @@
  
   ],
   
-  "Videos Mades": [
+  "videosmades": [
     20,
    10,
    15,
@@ -20,14 +20,14 @@
    35
  
   ],
-  "Subscriptions": [
+  "subscriptions": [
  26,
 30,
 35,
 10,
  50
    40,
- 45,
-  15
+ 45
+
   ]
 }
